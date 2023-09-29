@@ -28,7 +28,7 @@
 
 ```cd Defacer```
 
-```bash defacer.sh```
+```bash Defacer.sh```
 
 ## How to use
 
