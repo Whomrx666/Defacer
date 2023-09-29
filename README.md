@@ -32,8 +32,9 @@
 
 ## How to run it again after the installation is complete :
 
+```cd /storage/emulated/0/DEFACER/```
 
-
+```python Defacer.py```
 
 ## How to use
 
