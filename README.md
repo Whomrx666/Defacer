@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Whomrx666/pantester/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/Whomrx666/Defacer/blob/main/logo.png?raw=true" /></p>
 <br>
 <p align="center">***Deface tools for all hackers.***</p>
 
@@ -29,6 +29,8 @@
 ```cd Defacer```
 
 ```bash defacer.sh```
+
+## How to use
 
 
 ## Check this : 
