@@ -30,8 +30,16 @@
 
 ```bash Defacer.sh```
 
+## How to run it again after the installation is complete :
+
+
+
+
 ## How to use
 
+-First,you have to install the tool and run it according to the commands above
+
+- and go to your memory storage then go to the SD card and find the DEFACER folder after that you go to the folder and add the html file that you have created to the DEFACER folder and run it again the script in your terminal and press enter
 
 ## Check this : 
 
