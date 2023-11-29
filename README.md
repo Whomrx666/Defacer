@@ -54,6 +54,9 @@ That's It... If You Like This Repo. Please Share This With Your Friends..
 
 & Don't Forget To Follow Me At [Telegram](https://t.me/Whomr_X), [Whatsapp](https://wa.me/6287855190571), [Github](https://github.com/Whomrx666) & SUBSCRIBE My [YouTube](https://youtube.com/@whomrx666) Channel..!!!
 
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Defacer-yellow?style=for-the-badge&logo=github"></a>
+
 ***Thankyou.***
 ***Use these tools as best as possible..***
 ***Enjoy.!!! :)***
